@@ -46,8 +46,8 @@ _Для работы программы необходимо установит�
 - Визуализация результатов с помощью Gnuplot
 
 ### Примеры работы системы
-<img width="978" height="542" alt="image" src="https://github.com/user-attachments/assets/e5425658-dd7f-4b0d-bc40-1b8d10b44c10" />
-<img width="573" height="487" alt="image" src="https://github.com/user-attachments/assets/f4778fa5-1d04-416e-832d-450b2cd5a633" />
+<img width="974" height="538" alt="image" src="https://github.com/user-attachments/assets/13f263a7-2561-41ec-b7c6-63c6a9cb2757" />
+<img width="569" height="483" alt="image" src="https://github.com/user-attachments/assets/ea02093d-fe35-41f2-87eb-abc8c686e940" />
 <img width="974" height="650" alt="image" src="https://github.com/user-attachments/assets/4f091c5e-fdbc-4d05-86bc-787549c361ab" />
 <img width="488" height="616" alt="image" src="https://github.com/user-attachments/assets/918684a4-b761-4bb3-8a93-2202e9657634" />
 <img width="974" height="650" alt="image" src="https://github.com/user-attachments/assets/1893bf7e-2992-40e6-b4f1-15894dd286b8" />
