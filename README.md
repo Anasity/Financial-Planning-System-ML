@@ -45,11 +45,5 @@ _Для работы программы необходимо установит�
 - Генерация рекомендаций на основе анализа градиента изменения финансовых показателей
 - Визуализация результатов с помощью Gnuplot
 
-### Примеры работы системы
-<img width="974" height="538" alt="image" src="https://github.com/user-attachments/assets/13f263a7-2561-41ec-b7c6-63c6a9cb2757" />
-<img width="569" height="483" alt="image" src="https://github.com/user-attachments/assets/ea02093d-fe35-41f2-87eb-abc8c686e940" />
-<img width="974" height="650" alt="image" src="https://github.com/user-attachments/assets/4f091c5e-fdbc-4d05-86bc-787549c361ab" />
-<img width="488" height="616" alt="image" src="https://github.com/user-attachments/assets/918684a4-b761-4bb3-8a93-2202e9657634" />
-<img width="974" height="650" alt="image" src="https://github.com/user-attachments/assets/1893bf7e-2992-40e6-b4f1-15894dd286b8" />
-<img width="521" height="650" alt="image" src="https://github.com/user-attachments/assets/51a24454-aa0a-4b8e-8662-ea553247ee23" />
+
 
